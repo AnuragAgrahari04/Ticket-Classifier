@@ -26,7 +26,7 @@ It helps support teams reduce manual triage, improve response times, and optimiz
 # What's New?
 
 1. ## Real Time Solution Recommendation
-     ![Solution Preview](assests/recsol.png)
+     ![Solution Preview](assests/soln.png)
 2. ## Filter Tickets bases of Severity
    ![Filter Preview](assests/priority.png)
 3. ## Contact Gap Analysis Improved
