@@ -140,11 +140,5 @@ Why Use This Project
 **Insights** — Detects knowledge gaps and tracks model performance
 
 ---
-Contact & Support
----
-
-For questions, bug reports, or suggestions — open an issue on the GitHub repository.
-
-👤 Author: **INFOAI4(Sahil,Rohit K,Sirisha,V.Raghu)**
 
     
